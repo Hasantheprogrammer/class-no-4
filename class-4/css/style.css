@@ -1,0 +1,26 @@
+
+header{
+
+background-color: lightcoral;
+}
+.section{
+    font-weight: 200;
+    overflow: hidden;
+}
+.left-section{
+    float: left;
+    background-color: rebeccapurple;
+    width: 65%;
+    height: 250px;
+
+}
+.right-section{
+    float: right;
+    background-color: aqua;
+    width: 30%;
+    height: 250px;
+}
+footer{
+    font-size: larger;
+    background-color: lightcoral;
+}
